@@ -16,7 +16,7 @@
       "id": 3,
       "text": "Learning Angular",
       "day": "Dec 19 at 10:00 AM",
-      "reminder": true
+      "reminder": false
     },
     {
       "id": 4,
