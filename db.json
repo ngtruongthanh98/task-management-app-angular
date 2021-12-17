@@ -10,7 +10,7 @@
       "id": 2,
       "text": "Coding",
       "day": "Dec 18 at 9:00 AM",
-      "reminder": false
+      "reminder": true
     },
     {
       "id": 3,
