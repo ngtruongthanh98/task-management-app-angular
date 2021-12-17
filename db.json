@@ -23,6 +23,12 @@
       "text": "Doing laundry",
       "day": "Dec 20 at 11:00 AM",
       "reminder": true
+    },
+    {
+      "text": "Eating",
+      "day": "Today",
+      "reminder": true,
+      "id": 5
     }
   ]
 }
