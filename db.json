@@ -22,7 +22,7 @@
       "id": 4,
       "text": "Doing laundry",
       "day": "Dec 20 at 11:00 AM",
-      "reminder": false
+      "reminder": true
     }
   ]
 }
